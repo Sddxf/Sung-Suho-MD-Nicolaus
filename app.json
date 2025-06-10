@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Must Start with 'suho~'",
       "required": true,
-      "value": ""
+      "value": "suho~ljkSHJTK#fx8VwTneQoM8vBuC8QDHJp4m-0rJsh-6dBCkvZrigjo"
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "Nicolaus Daniel 2😈😈"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "27813374457"
+      "value": "255652398614"
     },
     
     "PRESENCE": {
